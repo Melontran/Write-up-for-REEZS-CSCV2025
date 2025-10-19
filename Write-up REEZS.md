@@ -8,9 +8,13 @@ Hello guys🤗! today i will write about a REV challenge that met at the CSCV202
 <img width="632" height="792" alt="image" src="https://github.com/user-attachments/assets/70686893-bd08-45fc-8a07-d3c48e8eb7d0" />
 
 First when you install the file and extract the folder you will have an .exe file like this:     
+
 ![image](https://hackmd.io/_uploads/B1I12bfRel.png)
+
  When you run that file, you will see an CMD that told you enter the flag:
+ 
  ![image](https://hackmd.io/_uploads/r1JH3-MClx.png)
+
 Since there were no clues at first, I typed some random input to see how the program executes. As expected, it shut down immediately.  
 Then I opened IDA and loaded the file to read the main function and understand the execution flow. In IDA View-A, the main function looks like this:  
 
