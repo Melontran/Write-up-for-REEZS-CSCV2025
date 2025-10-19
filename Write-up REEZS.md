@@ -5,6 +5,8 @@ title: Write-up REEZS
 
 Hello guys🤗! today i will write about a REV challenge that met at the CSCV2025 that named:***Reezs***.  
 
+<img width="632" height="792" alt="image" src="https://github.com/user-attachments/assets/70686893-bd08-45fc-8a07-d3c48e8eb7d0" />
+
 First when you install the file and extract the folder you will have an .exe file like this:     
 ![image](https://hackmd.io/_uploads/B1I12bfRel.png)
  When you run that file, you will see an CMD that told you enter the flag:
